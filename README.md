@@ -66,7 +66,6 @@
         dejame ser tu amor toda la vida porfavor.
       </p>
       <div class="heart">💜🥺</div>
-      <div class="images">
       </div>
       <button onclick="showMessage()">Toca aqui amor</button>
       <div id="extraMessage" style="display: none; margin-top: 20px">
@@ -75,7 +74,6 @@
         </p>
       </div>
     </div>
-
     <script>
       function showMessage() {
         document.getElementById("extraMessage").style.display = "block";
