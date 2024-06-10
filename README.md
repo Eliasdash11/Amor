@@ -67,9 +67,9 @@
       </p>
       <div class="heart">💜🥺</div>
       <div class="images">
-       <img src="![d4335031-06a8-4ac0-ab7b-ab31be6479df](https://github.com/Eliasdash11/Amor/assets/172306840/b573b8b3-3ac0-4466-b75c-4dfa4706878b)" alt="Imagen 1" />
-        <img src="![a4cbabc2-884e-42b0-a1e5-848587a787ab](https://github.com/Eliasdash11/Amor/assets/172306840/4f4739b4-7ac0-4fad-b0db-4c2551f3ecab)" alt="Imagen 2" />
-        <img src="![73498697-f538-4dc8-a721-e1dc9486086d](https://github.com/Eliasdash11/Amor/assets/172306840/e242dbab-c65f-4b00-904b-3e63fb25b53b)" alt="Imagen 3" />
+       <img src="![WhatsApp Image 2024-06-10 at 11 56 54 AM](https://github.com/Eliasdash11/Amor/assets/172306840/a98a8d06-d387-4545-baa7-1fe868f55b4c)" alt="Imagen 1" />
+        <img src="![WhatsApp Image 2024-06-10 at 11 55 47 AM](https://github.com/Eliasdash11/Amor/assets/172306840/4df9c9a4-4dea-4a98-bce9-ae2af7ec490b)" alt="Imagen 2" />
+        <img src="![WhatsApp Image 2024-06-10 at 11 54 50 AM](https://github.com/Eliasdash11/Amor/assets/172306840/aa018edf-a70d-4f04-903e-59d5db760754)" alt="Imagen 3" />
       </div>
       <button onclick="showMessage()">Toca aqui amor</button>
       <div id="extraMessage" style="display: none; margin-top: 20px">
